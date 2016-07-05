@@ -1,0 +1,2 @@
+# efpy
+effective python
